@@ -6,6 +6,7 @@ gem 'activerecord', '~> 5.1', :require => 'active_record'
 gem 'sinatra-activerecord', '~> 2.0', '>= 2.0.13', :require => 'sinatra/activerecord'
 gem 'sinatra-flash', '~> 0.3.0'
 gem 'sinatra-redirect-with-flash', '~> 0.2.1'
+gem 'pg', '~> 0.20.0'
 gem 'rake', '~> 12.0'
 
 group :development do
